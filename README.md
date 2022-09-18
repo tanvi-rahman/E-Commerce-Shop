@@ -1,3 +1,8 @@
+# E-Commerce Website
+This is my version of a website made for buying and selling products online. It shows various items that are for sale, and categorizes them by season and by popularity. The website also supports PayPal and Debit/Credit Payments.
+#
+I followed the React E-Commerce App Design Tutorial by Lama Dev on YouTube
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
