@@ -3,10 +3,6 @@ This is my version of a website made for buying and selling products online. It 
 #
 I followed the React E-Commerce App Design Tutorial by Lama Dev on YouTube
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
